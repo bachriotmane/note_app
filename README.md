@@ -26,6 +26,8 @@ The Note Management App is a web application that allows users to manage and sto
 ```bash
 git clone https://github.com/yourusername/note-management-app.git
 
+```
+
 ![Image](image.png)
 
 
